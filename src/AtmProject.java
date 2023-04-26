@@ -10,6 +10,8 @@ public class AtmProject {
         //versiyon4
         System.out.println("senay branchi kodlarini yazdi.");
         //version sny1
+        System.out.println("Bir kisim kodlar.");
+        //sny2
     }
 
 }

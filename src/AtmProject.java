@@ -12,8 +12,12 @@ public class AtmProject {
         //version sny1
         System.out.println("Bir kisim kodlar.");
         //sny2
+
+
         System.out.println();
         //sny3
+
+
 
     }
 

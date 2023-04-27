@@ -1,0 +1,2 @@
+git remote add origin [projenin githubtaki linki]=====>> local deki projeyi github a tanitir
+git push --set upstream origin master ======>> localdeki projeyi githube a aktarir.

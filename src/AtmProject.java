@@ -17,7 +17,7 @@ public class AtmProject {
         System.out.println();
         //sny3
 
-        //localde degisiklik yaptim.
+        //localde degisiklik yaptim..
 
     }
 
